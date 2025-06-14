@@ -18,7 +18,7 @@ type (
 	}
 )
 
-func ReqOptBuidler() *reqOptBuilder {
+func ReqOptBuilder() *reqOptBuilder {
 	return &reqOptBuilder{}
 }
 
